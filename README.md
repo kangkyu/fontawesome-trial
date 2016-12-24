@@ -1,24 +1,12 @@
-# README
+# fontawesome-trial
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+very small practicing Ruby on Rails app for trying four different ways
+to use Font Awesome icons
 
-Things you may want to cover:
+* use FontAwesome files downloaded fontawesome.io
 
-* Ruby version
+* use cdn link
 
-* System dependencies
+* use FortAwesome/font-awesome-sass gem
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* use bokmann/font-awesome-rails gem
